@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-# Create synthetic data directory if it doesn't exist
 data_dir = '../data'
 os.makedirs(data_dir, exist_ok=True)
 
